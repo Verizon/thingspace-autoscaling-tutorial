@@ -14,3 +14,5 @@ Copyright 2022 Verizon
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   
+   **A blog post about this tutorial on Medium can be found [here](https://verizon5gedgeblog.medium.com/5g-edge-infrastructure-auto-scaling-with-verizon-thingspace-and-aws-cloudwatch-a-tutorial-fdb780ab39a)** 
